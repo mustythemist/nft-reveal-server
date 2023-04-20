@@ -1,0 +1,32 @@
+{
+  "name": "Unrevealed Arkadian ",
+  "description": "Arkadia is a Free-to-Play & Cross-IP, Theme Park metaverse featuring world-class NFT art and immersively interoperable competitive gaming experiences. Arkadians are the builders of Arkadia Theme Park.",
+  "image": "https://nfts.arkadiapark.com/arkadians/images/unrevealed.webp",
+  "edition": 191,
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "2"
+    },
+    {
+      "trait_type": "Auras",
+      "value": "19"
+    },
+    {
+      "trait_type": "Face",
+      "value": "1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "4"
+    },
+    {
+      "trait_type": "Heads",
+      "value": "12"
+    },
+    {
+      "trait_type": "Main Dress",
+      "value": "23"
+    }
+  ]
+}

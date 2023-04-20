@@ -1,0 +1,12 @@
+{
+  "name": "Unrevealed Arkadian ",
+  "description": "Arkadia is a Free-to-Play & Cross-IP, Theme Park metaverse featuring world-class NFT art and immersively interoperable competitive gaming experiences. Arkadians are the builders of Arkadia Theme Park.",
+  "image": "https://nfts.arkadiapark.com/arkadians/images/unrevealed.webp",
+  "edition": 191,
+  "attributes": [
+    {
+      "trait_type": "Arkadian",
+      "value": "Unrevealed"
+    }
+  ]
+}
